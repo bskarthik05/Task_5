@@ -81,11 +81,7 @@ The analysis is performed using Python and requires the following libraries:
 ## How to Run
 1.  Ensure all required libraries and Graphviz (if visualization is desired) are installed.
 2.  Place the `heart.csv` dataset in the same directory as the Python script, or update the file path in the script.
-3.  Run the Python script from your terminal:
-    ```bash
-    python your_script_name.py
-    ```
-
+3.  Run the code
 
 ##  Generated Files
 The script will generate the following output files in the same directory:
